@@ -26,7 +26,7 @@ Experienced Cyber Threat Hunter specializing in AI/ML security, cloud security, 
 - Red Hat RHCSA (2018)
 
 ### 📫 Connect
-- 💼 [LinkedIn](www.linkedin.com/in/phill-t-1894411a7)
+- 💼 www.linkedin.com/in/phill-t-1894411a7
 - 📧 phillit@hotmail.co.uk
 - 📍 Bolton, UK
 
