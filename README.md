@@ -2,7 +2,7 @@
 
 ## 🔒 Cybersecurity Professional | AI Security Specialist
 
-Experienced Cyber Threat Hunter specializing in AI/ML security, cloud security, and proactive threat detection. Currently securing 80,000+ users at a major UK financial institution.
+Experienced Cyber Threat Hunter specializing in AI/ML security, cloud security, and proactive threat detection.
 
 ### 🎯 Current Focus
 - Building AI security monitoring systems
