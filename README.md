@@ -2,7 +2,7 @@
 
 ## 🔒 Cybersecurity Professional | AI Security Specialist
 
-Experienced Cyber Threat Hunter specializing in AI/ML security, cloud security, and proactive threat detection.
+Experienced Cyber Threat Hunter specialising in proactive threat detection, AI/ML security and cloud security.
 
 ### 🎯 Current Focus
 - Building AI security monitoring systems
