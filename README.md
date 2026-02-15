@@ -1,5 +1,3 @@
-# Hi, I'm Phill 👋
-
 ## 🔒 Cybersecurity Professional | AI Security Specialist
 
 Experienced Cyber Threat Hunter specialising in proactive threat detection, AI/ML security and cloud security.
