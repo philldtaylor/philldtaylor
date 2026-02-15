@@ -1,18 +1,35 @@
 # Hi, I'm Phill 👋
 
-## AI Security Specialist
+## 🔒 Cybersecurity Professional | AI Security Specialist
 
-I focus on securing LLM applications and AI systems.
+Experienced Cyber Threat Hunter specializing in AI/ML security, cloud security, and proactive threat detection. Currently securing 80,000+ users at a major UK financial institution.
 
-### 🔒 Current Projects
-- **LLM Security Monitor** - Automated testing framework for prompt injection attacks
-- Building expertise in OWASP Top 10 for LLM Applications
+### 🎯 Current Focus
+- Building AI security monitoring systems
+- AWS cloud security architecture
+- LLM security and OWASP frameworks
+- Threat hunting and malware analysis
 
-### 🛠️ Tech Stack
-- Python, Bash, Linux
-- Terraform, AWS
-- Ollama, LLMs
-- Security Testing & Monitoring
+### 🛡️ Featured Project
+**[LLM Security Monitor](https://github.com/philldtaylor/llm-security-monitor)** - Production-ready security monitoring system implementing OWASP Top 10 for LLM Applications. Achieves 100% attack detection on AWS Bedrock deployment.
 
-### 📫 Let's Connect
-www.linkedin.com/in/phill-t-1894411a7 | phillit@hotmail.co.uk
+### 🔧 Technical Skills
+- **AI/ML Security:** OWASP LLM Top 10, prompt injection detection, model security
+- **Cloud:** AWS (Bedrock, IAM, CloudWatch), Azure
+- **Languages:** Python, Bash
+- **Security:** SIEM/EDR, malware analysis, threat hunting, digital forensics
+
+### 📜 Certifications
+- AWS Certified Security – Specialty (2025)
+- AWS Certified Solutions Architect – Associate (2025)
+- CompTIA Security+ (2020)
+- Red Hat RHCSA (2018)
+
+### 📫 Connect
+- 💼 [LinkedIn](www.linkedin.com/in/phill-t-1894411a7)
+- 📧 phillit@hotmail.co.uk
+- 📍 Bolton, UK
+
+---
+
+*Building secure AI systems for the next generation of technology*
